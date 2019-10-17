@@ -1,0 +1,5 @@
+"""
+Create Path from Google Drive to Google Colab
+"""
+import sys
+sys.path.append('content/drive/My Drive/[Folder name]')

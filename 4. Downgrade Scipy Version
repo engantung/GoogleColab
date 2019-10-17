@@ -1,0 +1,5 @@
+"""
+Sometimes that we need to Downgrade SciPy version in Google Colab in order to read 'imread'
+"""
+
+!pip install scipy==1.1.0 

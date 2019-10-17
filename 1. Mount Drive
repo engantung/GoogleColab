@@ -1,0 +1,6 @@
+"""
+How to mount Google Drive files to Google Colab
+"""
+
+from google.colab import drive
+drive.mount('/content/drive')
