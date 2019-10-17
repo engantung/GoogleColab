@@ -1,4 +1,4 @@
-# drive_to_google_colab
+# Google Colab Instructions
 This code is the example on how to integrate .py, .ipynb and datasets into Google Colab
 
 Other Google Colab codes
